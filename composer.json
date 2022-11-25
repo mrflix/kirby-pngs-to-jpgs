@@ -1,0 +1,17 @@
+{
+  "name": "mrflix/pngs-to-jpgs",
+  "description": "Kirby PNGs to JPGs Plugin",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+        "name": "Felix Niklas",
+        "email": "mail@felixniklas.de",
+        "homepage": "https://www.felixniklas.de"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.1"
+  }
+}
